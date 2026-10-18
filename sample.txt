@@ -1,3 +1,2 @@
 My first commit from windows
-second commit 
-hii how are you
+second commit
